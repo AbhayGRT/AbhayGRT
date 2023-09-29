@@ -10,10 +10,6 @@ I'm a tech enthusiast with a passion for DevOps, Cloud Computing, and GoLang dev
 - CI/CD Pipelines 🛠️
 - Open Source Contributor 💻
 
-📚 **I'm currently learning:**
-- Artificial Intelligence and Machine Learning
-- [Technology/Tool Name]
-
 🌟 **I'm looking to collaborate on:**
 - Open source projects
 - DevOps automation challenges
