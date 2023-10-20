@@ -8,7 +8,6 @@ I'm a tech enthusiast with a passion for DevOps, Cloud Computing, and GoLang dev
 - GoLang Developer 🐹
 - Docker 🐳 | Kubernetes 🚢 | Ansible 🤖
 - CI/CD Pipelines 🛠️
-- Open Source Contributor 💻
 
 🌟 **I'm looking to collaborate on:**
 - Open source projects
