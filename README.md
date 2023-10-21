@@ -16,7 +16,7 @@ I'm a tech enthusiast with a passion for DevOps, Cloud Computing, and GoLang dev
 
 📫 **How to reach me:**
 - [LinkedIn](https://www.linkedin.com/in/abhay-maurya-8b7b3b1a9)
-- [Website](http://denissivy.s3-website.ap-south-1.amazonaws.com/)
+- [Website](http://denissivy.s3-website.ap-south-1.amazonawdss.com/)
 
 Let's connect and build amazing things together! 🤝
 
