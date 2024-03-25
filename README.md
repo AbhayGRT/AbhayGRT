@@ -13,12 +13,6 @@ I'm a tech enthusiast with a passion for DevOps, Cloud Computing, and GoLang dev
 - DevOps automation challenges
 - GoLang projects
 
-📫 **How to reach me:**
-- [LinkedIn](https://www.linkedin.com/in/abhay-maurya-8b7b3b1a9)
-- [Website](https://abhaygrt-portfolio.vercel.app/)
-
-Let's connect and build amazing things together! 🤝
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
